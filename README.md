@@ -1,10 +1,11 @@
 # Contact-us-Form
 
-This repositry consist of a Contact us form. It has three fields:- Name, Email and Message. The response is submitted by clicking the Submit button.
+This repositry consist of a Contact us form. It has three fields:- Name, Email and Message. 
+The response is submitted by clicking the Submit button.
 # Technologies used:-
-Node js
-Express
-EJS
+Node js,
+Express,
+EJS,
 MongoDB
 
 
