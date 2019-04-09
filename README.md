@@ -1,11 +1,11 @@
 # Contact-us-Form
 
-#This repositry consist of a Contact us form. It has three fields:- Name, Email and Message. The response is submitted by clicking the Submit button.
+This repositry consist of a Contact us form. It has three fields:- Name, Email and Message. The response is submitted by clicking the Submit button.
 # Technologies used:-
-#Node js
-#Express
-#EJS
-#MongoDB
+Node js
+Express
+EJS
+MongoDB
 
 
 
@@ -19,6 +19,6 @@
 #How to run:-
  
 #Make sure node is installed in your computer. Open the terminal and start the application by following command
-# node index.js
+node index.js
 
-#Now go to your browser and type  'http://localhost:3000/contact'
+Now go to your browser and type  'http://localhost:3000/contact'
